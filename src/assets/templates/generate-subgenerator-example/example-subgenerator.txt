@@ -1,0 +1,6 @@
+---
+layout: false
+rename:
+  basename: 'example-subgenerator.txt'
+---
+This is an example template for subgenerator-example.
